@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658182732511",
+    "project_id": "studymatchyapp",
+    "storage_bucket": "studymatchyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658182732511:android:8a5b7a2054b6d36ba0c76a",
+        "android_client_info": {
+          "package_name": "com.example.studymatchyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZEC-A9nLmOdOaIDqhINekJueL_ty9rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
